@@ -7,5 +7,5 @@
 ## Inspiration
 1. <span>Design by <a href="https://www.behance.net/ayselqarayeva">Aysel Garayeva</a> on <a href="https://www.behance.net/">Behance</a></span>
 
-## Made Uing
+## Made Using
 1. [gsap javascript library](https://cdnjs.com/libraries/gsap)
